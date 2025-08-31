@@ -5,3 +5,4 @@ util --工具包
 exception --自定义错误类包
 result --通用返回类包
 threadPool --线程池配置包
+entity --实体类
